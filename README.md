@@ -1,5 +1,5 @@
 # college-management-system
-A simple management system of students and courses of a college
+A simple Django management system of students and courses of a college
 
 ![Screenshot 2024-07-17 164707](https://github.com/user-attachments/assets/474da4e5-68f7-4c06-8618-f64aa9903106)
 
